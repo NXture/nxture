@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://nxture.me/index.html</loc>
+        <loc>http://www.nxture.me/about.html</loc>
+    </url>
+    <url>
+        <loc>http://www.nxture.me/blogs.html</loc>
+    </url>
+    <url>
+        <loc>http://www.nxture.me/contact.html</loc>
+    </url>
+    <url>
+        <loc>http://www.nxture.me/impTools.html</loc>
+    </url>
+    <url>
+        <loc>http://www.nxture.me/index.html</loc>
+    </url>
+    <url>
+        <loc>http://www.nxture.me/introToWebDev.html</loc>
     </url>
 </urlset>
